@@ -1,0 +1,8 @@
+## Interface: 120000, 120001, 120002, 120003, 120004, 120005, 120006, 120007
+## Title: Soulstone Reminder
+## Notes: Warns when your group has warlocks and healers but no healer has a Soulstone resurrection buff. Optional raid announce and warlock whispers (from Raidwide Soulstone Checker).
+## Author: Bangerz–Dark Iron
+## Version: 1.0.8
+## SavedVariables: SoulstoneReminderDB
+
+Core.lua
