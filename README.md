@@ -50,7 +50,7 @@ Stored in **`SoulstoneReminderDB`** (global saved by the client). Includes optio
 
 ## License
 
-Project license is in **`LICENSE`** in the repository (CC0). Add-on code is contributed under that terms unless noted otherwise.
+Project license is in **`LICENSE`** in the repository (CC0). Add-on code is contributed under those terms unless noted otherwise.
 
 ## Author
 
